@@ -1,0 +1,10 @@
+@media(min-width: 767px) {
+  .full-image-block {
+    min-height: 225px;
+  }
+
+  .full-image {
+    width: 100%;
+    height: 100%;
+  }
+}

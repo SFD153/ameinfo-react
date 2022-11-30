@@ -1,0 +1,19 @@
+html, body {
+  overflow-x: visible !important;
+}
+
+.bm-disable-scroll {
+  overflow: hidden;
+}
+
+.bm-item {
+  outline: none;
+}
+
+.bm-overlay {
+  top: 0;
+}
+
+.bm-menu-wrap {
+  transition: all 0s ease 0s !important;
+}

@@ -1,0 +1,16 @@
+version: 0.1
+phases:
+  pre_build:
+    commands:
+      - echo Installing dependencies
+      - npm install
+  build:
+    commands:
+      - echo Build started
+      - npm run build
+artifacts:
+  files:
+    - build/*
+    - public/*
+    - scripts/*
+    - appspec.yml
