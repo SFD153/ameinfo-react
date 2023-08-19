@@ -8,7 +8,7 @@ Welcome to the AMEInfo Frontend Pages in React repository! This repository conta
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Prerender Server in `app/prerender`](#prerender-server-in-appprerender)
+- [Prerender Server in app/prerender](#prerender-server-in-appprerender)
 - [Contributing](#contributing)
 
 ## Getting Started
@@ -45,7 +45,7 @@ To run this project, you'll need the following:
 1. Open a web browser and visit http://localhost:3000.
 2. Explore the different frontend pages that mimic the AMEInfo website's layout and design.
 
-## Prerender Server in `app/prerender`
+## Prerender Server in app/prerender
 
   ```
   git pull
